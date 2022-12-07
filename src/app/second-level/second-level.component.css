@@ -1,0 +1,16 @@
+:host {
+  display: flex;
+  margin: 8px;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  border-radius: 10px;
+  border: 1px solid #000;
+  background: #267373;
+}
+strong {
+  padding: 16px;
+}
+.children {
+  display: flex;
+}

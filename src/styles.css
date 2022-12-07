@@ -1,0 +1,72 @@
+/* Add application styles & imports to this file! */
+* {
+  font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+body {
+  background: #fff;
+}
+.detecting {
+  border: 1px dashed #267373 !important;
+  color: #fff !important;
+  background: #0cc !important;
+}
+
+button {
+  background: #c03;
+  color: #fff;
+  border: none;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-decoration: none;
+  font-weight: 200;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 8px;
+  background: #ccc;
+}
+.row button {
+  margin-left: 8px;
+}
+.data-structure {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.summary {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 50px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.book img {
+  width: 250px;
+}
+h1 {
+  text-align: center;
+}
+a {
+  color: #267373;
+  text-decoration: none;
+}
+.row {
+  background: #fff;
+  color: #000;
+  border:1px solid #000;
+}
+li {
+  list-style-type: none;
+}

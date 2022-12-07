@@ -1,0 +1,18 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 8px;
+  color: #fff;
+  border-radius: 10px;
+  border: 1px solid #000;
+  background: #267373;
+}
+strong {
+  padding: 16px;
+}
+.children {
+  display: flex;
+}
+
+
